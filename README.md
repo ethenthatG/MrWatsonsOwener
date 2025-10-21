@@ -2,6 +2,5 @@
 Watsons cat
 -big
 -black
--smells
 -long
--
+-little brown
